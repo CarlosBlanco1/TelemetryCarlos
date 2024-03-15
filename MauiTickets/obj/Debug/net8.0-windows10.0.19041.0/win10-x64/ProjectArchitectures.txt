@@ -1,0 +1,1 @@
+C:\Users\carlo\source\repos\ticketsrus-aaron-bryce-carlos\MauiTickets\MauiTickets.csproj;x64

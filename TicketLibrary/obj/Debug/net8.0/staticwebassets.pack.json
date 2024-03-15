@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/carlosfelipeblancocastro/Desktop/ticketsrus-aaron-bryce-carlos/TicketLibrary/obj/Debug/net8.0/scopedcss/projectbundle/TicketLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets/TicketLibrary.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/carlosfelipeblancocastro/Desktop/ticketsrus-aaron-bryce-carlos/TicketLibrary/wwwroot/Images/Event.jpg",
+      "PackagePath": "staticwebassets/Images/Event.jpg"
+    },
+    {
+      "Id": "/Users/carlosfelipeblancocastro/Desktop/ticketsrus-aaron-bryce-carlos/TicketLibrary/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/carlosfelipeblancocastro/Desktop/ticketsrus-aaron-bryce-carlos/TicketLibrary/wwwroot/exampleJsInterop.js",
+      "PackagePath": "staticwebassets/exampleJsInterop.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.TicketLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.TicketLibrary.props",
+      "PackagePath": "build\\TicketLibrary.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TicketLibrary.props",
+      "PackagePath": "buildMultiTargeting\\TicketLibrary.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TicketLibrary.props",
+      "PackagePath": "buildTransitive\\TicketLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
